@@ -1,0 +1,20 @@
+.pragmatic_logo{
+    font-family: 'Lobster', cursive;
+}
+/* .: class라는 의미
+pragmatic_footer_logo: class name
+{}: 내용물 */
+
+.pragmatic_footer_button{
+    font-size: .7rem;
+}
+
+.pragmatic_footer{
+    text-align: center; 
+    margin-top: 2rem;
+}
+
+.pragmatic_header{
+    text-align: center; 
+    margin-bottom: 2rem 0;
+}
